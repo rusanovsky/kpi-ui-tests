@@ -1,4 +1,4 @@
-**kpi ui tests using pytest
+##kpi ui tests using pytest
 
 testing rozetka.com.ua resource with pytest, selenium and webdriver
 
